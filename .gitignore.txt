@@ -1,0 +1,13 @@
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.log
+*.xml
+*.html
+.env
+chromedriver.exe
+geckodriver.exe
+.pytest_cache
+.ssh
